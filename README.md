@@ -1,0 +1,23 @@
+- Assignment 1-In this file, I performed an initial exploration of the sales data. Using pivot tables to summarize total sales by product, region, and month. Also using Excel formulas to calculate metrics such as average sales per product and total revenue by region. 
+I analyzed customer data using pivot tables to find subscription patterns. Calculated the average subscription duration and identified the most popular subscription types.
+- Project 2 Write queries to extract key insights based on the following questions. 
+  - retrieve the total sales for each product category.
+  - find the number of sales transactions in each region.
+  - find the highest-selling product by total sales value.
+  - calculate total revenue per product.
+  - calculate monthly sales totals for the current year.
+  - find the top 5 customers by total purchase amount.
+  - calculate the percentage of total sales contributed by each region.
+  - identify products with no sales in the last quarter.
+- Project 3 
+  -These are queries to extract key insights based on the following questions.
+  - retrieve the total number of customers from each region.
+  - find the most popular subscription type by the number of customers.
+  - find customers who canceled their subscription within 6 months.
+  - calculate the average subscription duration for all customers. 
+  - find customers with subscriptions longer than 12 months.
+  - calculate total revenue by subscription type. 
+  - find the top 3 regions by subscription cancellations.
+  - find the total number of active and canceled subscriptions
+
+- Sales Data Power BI: Created a dashboard that visualizes the insights found in Excel and SQL. The dashboard included a sales overview, top-performing products, and regional breakdowns
